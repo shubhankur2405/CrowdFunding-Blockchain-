@@ -24,7 +24,7 @@ Among the various applications of BlockChain, optimizing lottery is one of the u
   <br />
   
 ### *Rinkeby TestNet (https://www.rinkeby.io/#explorer)<br />
-  A sandbox for safely testing and demonstrating where no real value is exchanged. Etherscan allows you to explore and search the Rinkeby blockchain for transactions, addresses, tokens, prices and other activities taking place on Rinkeby.<br />
+  A sandbox for safely testing and demonstrating where no real value is exchanged. Etherscan allow you to explore and search the Rinkeby blockchain for transactions, addresses, tokens, prices and other activities taking place on Rinkeby.<br />
   ![](images/Screenshot_10.png)
   <br />
   
